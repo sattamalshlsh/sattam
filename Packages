@@ -12,3 +12,18 @@ SHA256: fe4bfe88eb41a8d8ff7403099787752eafdcc9b1fd1d1c087e28900d497f0dec
 Section: Tweaks
 Depiction: https://alshlsh.github.io/sattam/
 Name: appstore++
+
+Package: com.sattam.filza
+Version: 3.9.0-2
+Architecture: iphoneos-arm
+Maintainer: alshlsh	
+Depends: zip, unzip, gzip, unrar, p7zip 	
+Conflicts: com.tigisoftware.filza64bit	
+Filename: debs/com.sattam.filza_3.9.0-2_iphoneos-arm.deb	
+Size: 13114258	
+MD5sum: a5ebbdc74129206764655f511f1b29d7	
+SHA1: e53adb6b48bb94db87257b32a911d6ba1aecec5f	
+SHA256: 7e6446d0ba8c0c9c4214fca8df7a8f235ac9c64196f46ac4bdaf3fd6c85c75cc	
+Section: Tweaks
+Depiction: https://alshlsh.github.io/sattam/
+Name: Filza File Manager
