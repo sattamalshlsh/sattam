@@ -1,5 +1,5 @@
-# مرحبا بكم في سطام الريبو!
+# Welcome to the sattam repo!
 
-أنا سطام، مهتم بالبرمجة وكسر حماية أنظمة iOS على الأيفون.
+I am sattam, interested in programming and jailbreaking iOS systems on an iPhone.
 
-— سطام
+— sattam
